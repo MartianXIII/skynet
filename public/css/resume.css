@@ -1,0 +1,26 @@
+.entry,
+.heading {
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.title {
+	float: left;
+}
+
+.city {
+	margin-top: 25px;
+}
+
+.city,
+.date { 
+	float: right;
+	clear: right;
+}
+
+.duties {
+	clear: both;
+}
+.employer {
+	clear: left;
+}
